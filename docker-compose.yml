@@ -1,0 +1,13 @@
+version: "3"
+services:
+  site:
+    working_dir: /srv/jekyll
+    command: jekyll build
+    image: jekyll/jekyll:latest
+    volumes:
+      - $PWD:/srv/jekyll
+    ports:
+      - 4000:4000
+      - 35729:35729
+      - 3000:3000
+      -   80:4000
