@@ -1,5 +1,5 @@
-title:            Blog Title
-description:      Describe your website here.
+title:            Robson's Blog
+description:      This blog has reports about my searches.
 
 # put your disqus here
 disqus_shortname:
@@ -20,7 +20,7 @@ url: https://robsonalves.github.io/
 menu:
   - title: 'Home'
     url: '/'
-    
+
 # Owner/author information
 owner:
   name:           Robson Alves
