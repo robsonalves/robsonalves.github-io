@@ -4,6 +4,10 @@ title: Iniciando uma aplicação From Zero To Production
 img: wooden_house.jpg
 date: 2018-08-03 00:00:00 +0200
 description: Este artigo se tornará uma série de artigos onde vamos fazer uma aplicação do zero desenvolvida em .net e a idéia é passar por todas as partes que uma aplicação real passaria, desde a concepção de negócio, definição do que a aplicação será e tomadas de decisões técnicas com todo o código demonstrando a evolução.
+image:
+    feature: feature.jpg
+    credit: dargadgetz
+    creditlink: http://www.dargadgetz.com/ios-8-abstract-wallpaper-pack-for-iphone-5s-5c-and-ipod-touch-retina/
 ---
 
 # Parte 1
