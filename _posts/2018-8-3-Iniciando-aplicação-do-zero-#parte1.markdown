@@ -63,4 +63,4 @@ Após criado todo o backlog vamos chegar a algo parecido com a imagem abaixo.
 
 Na próxima parte vamos iniciar entender como subir o código para o VSTS e iniciar o desenvolvimento.
 
-Abraços.
+Abraços!
